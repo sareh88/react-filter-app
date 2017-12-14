@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+  width: 50%;
+ margin: 0 auto;
+ 
+}
+
+
+
+@media only screen and (max-device-width: 600px) {
+
+    .App {
+      width: 90%;
+    }
+
+
+
+
+    }
